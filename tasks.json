@@ -1,0 +1,10 @@
+{
+    "python": "python",
+    "tasks": [
+        {
+            "name": "heartbeat",
+            "script": "heartbeat.py",
+            "interval_seconds": 30
+        }
+    ]
+}
