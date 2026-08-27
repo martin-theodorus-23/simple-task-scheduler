@@ -9,7 +9,7 @@ description = "A minimal, single-file Python background task scheduler with no d
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "FutureSphere Solutions", email = "martin_mathew@nlife.in"}
+    {name = "Loopfold", email = "martin_mathew@nlife.in"}
 ]
 keywords = ["scheduler", "task", "background", "interval"]
 classifiers = [
